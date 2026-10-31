@@ -1,0 +1,19 @@
+this is the index of all the question
+----------------------------------------------------------------------------------------------------------------
+SR NO. | INDEX | QUESTION NAME                                          | LEETCODE NO. | TOPIC
+----------------------------------------------------------------------------------------------------------------
+1      | 1     | Convert the Temperature                               | 2469         | Basic Maths
+2      | 2     | Smallest Even Multiple                                 | 2413         | Basic Maths
+3      | 3     | Palindrome Number                                      | 9            | Basic Maths
+4      | 4     | Fizz Buzz                                              | 412          | Basic Programming
+5      | 5     | Running Sum of 1D Array                                | 1480         | Array
+6      | 6     | How Many Numbers Are Smaller Than the Current Number   | 1365         | Array
+7      | 7     | Remove Duplicates from Sorted Array                   | 26           | Array / Two Pointers
+8      | 8     | Two Sum                                                | 1            | Array
+9      | 9     | Best Time to Buy and Sell Stock                        | 121          | Array / Greedy
+10     | 10    | Rearrange Array Elements by Sign                       | 2149         | Array
+11     | 11    | Product of Array Except Self                           | 238          | Array / Prefix-Suffix
+12     | 12    | Valid Parentheses                                      | 20           | Stack
+13     | 13    | Backspace String Compare                               | 844          | String / Stack
+14     | 14    | Implement Stack Using Queues                           | 225          | Stack / Queue
+15     | 15    | Reverse Linked List                                    | 206          | Linked List
